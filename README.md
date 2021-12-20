@@ -12,4 +12,4 @@ Build a Database -> Develop the SQL Query -> Connect PowerBI to the Database -> 
 
 In this project Microsoft SQL Server Studio database was used and the SQL queries was developed to get all data into one unified table (out of 5 tables) to bring the queried data into PowerBI for vizualization. The SQL queries can be found here -
 
-
+![PowerBI dashboard](https://user-images.githubusercontent.com/36482524/146766756-c2fe90b3-de5b-43a1-88cf-19e464f7854e.png)
